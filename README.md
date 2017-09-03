@@ -39,3 +39,11 @@
 
 * IP:  10.220.4.200
 * Click Start
+
+# References
+
+* http://www.atxhs.org/wiki/Laser_Cutter_Materials
+* http://www.atxhs.org/wiki/Blue_Laser_Cutter_Settings
+* https://wiki.milwaukeemakerspace.org/spacedocumentation/lasercuttermateriallibrary
+* https://wiki.milwaukeemakerspace.org/spacedocumentation/lasercutterhowto
+* https://wiki.milwaukeemakerspace.org/equipment/lasercutter2
