@@ -103,6 +103,7 @@ We assume a fixed height.  Ensure top of material is TODO distance from head.
 * https://wiki.milwaukeemakerspace.org/spacedocumentation/lasercuttermateriallibrary
 * https://wiki.milwaukeemakerspace.org/spacedocumentation/lasercutterhowto
 * https://wiki.milwaukeemakerspace.org/equipment/lasercutter2
+* https://docs.google.com/document/d/1Vb5_RDzhgYXnt1x8TM49Li398bMSygKMwKeBQtKmEYM/edit
 
 # Troubleshooting
 
