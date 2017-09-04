@@ -6,6 +6,11 @@
 * RDWorks
 
 # Steps to use
+## Check the following
+
+* Check water level
+* Check is "safe state" (TBD)
+* Ensure grate is clear of materials
 
 ## Convert to Plotter
 
