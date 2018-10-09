@@ -5,6 +5,7 @@
 * 500mmx700mm cutting space
 * Clone of http://www.thunderlaser.com/products/nova-laser-cutter.html
 * CO2
+* https://www.ebay.com/itm/110V-60W-USB-CO2-Laser-Engraving-Cutting-Machine-Laser-Engraver-Cutter-CE-FDA-/163282109130?oid=172493819421
 
 # Tools
 
