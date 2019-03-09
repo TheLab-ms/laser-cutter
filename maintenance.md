@@ -13,6 +13,8 @@ Make sure to perform the following every 3 months:
 * Laser Tube: https://www.ebay.com/itm/EFR-ZN-ZS1250-80W-CO2-Sealed-Laser-Tube-US-Stock/183439121099
   * NOTE:  This tube was slightly bigger than the original laser tube, which caused numerous calibration problems.
 
+![New tube too big](https://github.com/TheLab-ms/laser-cutter/blob/master/images/IMG_20190308_100547.jpg?raw=true)
+
 ## Cleaning
 
 ### Linear bearings
