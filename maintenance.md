@@ -23,6 +23,10 @@ If there is a rust build-up (oxidation), you can buff it out with Scotch Brite.
 
 It was recommended to not use grease, because it can collect dust.
 
+
+![Adjusting the linear bearing belt](https://github.com/TheLab-ms/laser-cutter/blob/master/images/IMG_0001.jpeg?raw=true)
+![Adjusting the linear bearing belt](https://github.com/TheLab-ms/laser-cutter/blob/master/images/IMG_0005.jpeg?raw=true)
+
 ## Calibrating Mirrors
 
 This is often a slow and tedious process.  When calibrating the mirrors, do in this order:
@@ -34,4 +38,6 @@ This is often a slow and tedious process.  When calibrating the mirrors, do in t
 To determine if the mirror is aligned, add a piece of tape to the front of a piece of paper to easily tell where the beam it hitting.
 
 _NOTE: There might be a better way of doing this, but since it's a repeated process, we wanted something we could easily throw away to re-test with fresh materials._
+
+![Testing mirror calibration](https://github.com/TheLab-ms/laser-cutter/blob/master/images/IMG_0009.jpeg?raw=true)
 
