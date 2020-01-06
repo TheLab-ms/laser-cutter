@@ -2,7 +2,7 @@
 
 ## Info
 
-* 500mmx700mm cutting space
+* 500mmx700mm (19.6"x27.5") cutting space
 * Clone of http://www.thunderlaser.com/products/nova-laser-cutter.html
 
 ## How to
